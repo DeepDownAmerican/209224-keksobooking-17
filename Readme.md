@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Egor Vydrin](https://up.htmlacademy.ru/javascript/17/user/209224).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Пиковец](https://up.htmlacademy.ru/javascript/17/user/503133).
 
 ---
 
